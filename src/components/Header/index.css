@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+
+.nav-items-container {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.nav-link {
+  margin-left: 10px;
+}
